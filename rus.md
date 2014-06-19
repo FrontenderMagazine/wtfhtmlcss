@@ -1,7 +1,5 @@
 # WTF, HTML и CSS?
 
-Reasons HTML and CSS might make you say what the fuck. A curated list of commonly frustrating HTML and CSS quandaries, miscues, and dilemmas.
-
 Ниже перечислены причины, по которым HTML и CSS могут заставить вас чертыхнуться. 
 Это список затруднений, ошибок и диллем, которые в них присутствуют и стабильно 
 портят нам настроение.
