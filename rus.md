@@ -6,22 +6,22 @@
 
 ## Содержание
 
-1. [Объявление doctype](#doctype)
-2. [Расчет размеров контейнера](#box-model-math)
-3. [Единицы Rem и мобильный Safari](#rems-mobile-safari)
-4. [Обтекаемые элементы идут первыми](#floats-first)
-5. [Обтекаемые элементы и клирфикс](#floats-clearing)
-6. [Обтекаемые элементы и вычисление высоты родителя](#floats-computed-height)
-7. [Все обтекаемые элементы — блочные](#floats-block-level)
-8. [Смежные вертикальные отступы схлопываются](#vertical-margins-collapse)
-9. [Стилизация строк таблицы](#styling-table-rows)
-10. [Firefox и кнопки с помощью тега `<input>`](#buttons-firefox)
-11. [Внутреннее выделение у кнопок в Firefox](#buttons-firefox-outline)
-12. [Всегда устанавливайте `type` тега `<button>`](#buttons-type)
-13. [Лимит на количество селекторов в Internet Explorer](#ie-selector-limit)
-14. [Объяснение того, как работает позиционирование](#position-explained)
-15. [Ширина элемента и его позиционирование](#position-width)
-16. [Фиксированное позиционирование и свойство `transform`](#position-transforms)
+1. [Объявление doctype](#obayavleniedoctype)
+2. [Расчет размеров контейнера](#raschetrazmerovkonteynera)
+3. [Единицы Rem и мобильный Safari](#edinitsremimobilynysafari)
+4. [Обтекаемые элементы идут первыми](#obtekaemelementidutpervmi)
+5. [Обтекаемые элементы и клирфикс](#obtekaemelementiklirfiks)
+6. [Обтекаемые элементы и вычисление высоты родителя](#obtekaemelementivchislenievsotroditelya)
+7. [Все обтекаемые элементы — блочные](#vseobtekaemelementblochne)
+8. [Смежные вертикальные отступы схлопываются](#smezhnevertikalyneotstupshlopvayutsya)
+9. [Стилизация строк таблицы](#stilizatsiyastroktablits)
+10. [Firefox и кнопки с помощью тега `<input>`](#firefoxiknopkispomoshtyyutegacodeltinputgtcode)
+11. [Внутреннее выделение у кнопок в Firefox](#vnutrenneevdelenieuknopokvfirefox)
+12. [Всегда устанавливайте `type` тега `<button>`](#vsegdaustanavlivaytecodetypecodetegacodeltbuttongtcode)
+13. [Лимит на количество селекторов в Internet Explorer](#limitnakolichestvoselektorovvinternetexplorer)
+14. [Объяснение того, как работает позиционирование](#obayasnenietogokakrabotaetpozitsionirovanie)
+15. [Ширина элемента и его позиционирование](#shirinalementaiegopozitsionirovanie)
+16. [Фиксированное позиционирование и свойство `transform`](#fiksirovannoepozitsionirovanieisvoystvocodetransformcode)
 
 ## Объявление doctype
 
