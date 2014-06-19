@@ -16,12 +16,12 @@
 8. [Смежные вертикальные отступы схлопываются](#vertical-margins-collapse)
 9. [Стилизация строк таблицы](#styling-table-rows)
 10. [Firefox и кнопки с помощью тега `<input>`](#buttons-firefox)
-11. [Firefox inner outline on buttons](#buttons-firefox-outline)
-12. [Always set a `type` on `<button>`s](#buttons-type)
-13. [Internet Explorer's selector limit](#ie-selector-limit)
-14. [Position explained](#position-explained)
-15. [Position and width](#position-width)
-16. [Fixed position and transforms](#position-transforms)
+11. [Внутреннее выделение у кнопок в Firefox](#buttons-firefox-outline)
+12. [Всегда устанавливайте `type` тега `<button>`](#buttons-type)
+13. [Лимит на количество селекторов в Internet Explorer](#ie-selector-limit)
+14. [Объяснение того, как работает позиционирование](#position-explained)
+15. [Ширина элемента и его позиционирование](#position-width)
+16. [Фиксированное позиционирование и свойство `transform`](#position-transforms)
 
 ## Объявление doctype
 
@@ -273,8 +273,7 @@ Internet Explorer 9 и ниже обладает ограничением на 4
 и элемент с фиксированным позиционированием начинает вести себя как элемент с 
 `position: absolute;`.
 
-
-[Посмотрите демо][11] и прочтите [пост Эрика Мэйера (Eric Meyer) на эту тему][12].
+[Посмотрите пример][11] и прочтите [пост Эрика Мэйера (Eric Meyer) на эту тему][12].
 
  [1]: http://quirks.spec.whatwg.org
  [2]: http://www.paulirish.com/2012/box-sizing-border-box-ftw/
