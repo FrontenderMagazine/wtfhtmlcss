@@ -1,3 +1,6 @@
+# WTF, HTML and CSS?
+Reasons HTML and CSS might make you say what the fuck. A curated list of commonly frustrating HTML and CSS quandaries, miscues, and dilemmas.
+
 ### Contents
 
 ### Declare a doctype
