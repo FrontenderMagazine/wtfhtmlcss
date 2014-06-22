@@ -218,9 +218,6 @@ Firefox [добавляет внутреннее выделение][10] в кн
 Для действий, которые требуют использования тега `<button>` не находящегося в 
 форме используйте `type="button"`.
 
-For actions that require a `<button>` and are not in a form, use the 
-`type="button"`.
-
     <button class="dismiss" type="button">x</button>
 
 
